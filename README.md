@@ -1,6 +1,3 @@
----
-
-````
 # 📦 Product Autocomplete API
 
 A simple **Node.js + Express** backend that provides **autocomplete search** functionality on a list of products stored in a local JSON file (seeded from DummyJSON API).
