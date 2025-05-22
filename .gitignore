@@ -1,17 +1,6 @@
 # Node modules
 node_modules/
 
-# Data & cache
-data/products.json
-.cache/
-.tmp/
-
 # Testing
 coverage/
 *.tsbuildinfo
-
-# OS / Editor junk
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
